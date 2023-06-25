@@ -15,8 +15,6 @@
     - Hanging out with my dog --> Hannah <--
     - And specially travelling!
 
-Tech stack:
+## :zap: Tech stack:
 
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Java][java.com]][Java-url]
-* [![My Skills](https://skillicons.dev/icons?i=mysql,selenium,java,git,docker)](https://skillicons.dev)
+* [![My Skills](https://skillicons.dev/icons?i=mysql,selenium,java,git,docker,rest-assured)](https://skillicons.dev)
