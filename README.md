@@ -11,3 +11,6 @@
 - I love playing the guitar, travelling, hanging out with my dog (Hannah) and exercising!
 
 Tech stack:
+
+* [![JQuery][JQuery.com]][JQuery-url]
+* [![Java][java.com]][Java-url]
