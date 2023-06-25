@@ -4,7 +4,7 @@
 # I like to consider myself ✨ _one of a kind_ ✨ as I've been all over the place, from presales, to digital marketing, to finally my sweetspot: testing!
 
 
-## :beginner: ABOUT ME
+## :beginner: About me
 - 🔭 I’m currently working as a QA Engineer.  
 - 🌱 I’m currently expanding my Automation expertise.
 - 👯 I’m looking to collaborate on agonostic frameworks.
