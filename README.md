@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# I like to consider myself ✨ _one of a kind_ ✨ as I've been all over the place, from presales, to digital marketing, to finally my sweetspot: testing!
+# I like to consider myself ✨ _one of a kind_ ✨ as I've been all over the place, from presales, to sales, to translation,  to digital marketing, to finally my sweet spot: software testing!
 
 
 ## :beginner: About me
