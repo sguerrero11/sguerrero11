@@ -9,12 +9,12 @@
 ```sh
         🌱...and expanding my Automation expertise with the latest Selenium!
 ```
-- 👯 I’m looking to collaborate on agonostic frameworks.
+- 👯 Looking to collaborate on agonostic frameworks.
 - 📫 How to reach me: you can find me on QA Mercenaries!
--⚡ Fun facts:
+- ⚡ Fun facts:
     - I love playing the guitar;
     - Exercising;
-    - Hanging out with my dog --> Hannah <--
+    - Hanging out with my dog *Hannah*
     - And specially travelling!
 
 ## :zap: Tech stack:
