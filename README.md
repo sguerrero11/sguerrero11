@@ -17,6 +17,6 @@
     - Hanging out with my dog Hannah
     - And specially travelling!
 
-## ☣️: Tech stack
+## ☣️ Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,selenium,java,git,docker,rest-assured)](https://skillicons.dev)
