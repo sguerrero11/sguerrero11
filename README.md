@@ -14,9 +14,9 @@
 - ⚡ Fun facts:
     - I love playing the guitar;
     - Exercising;
-    - Hanging out with my dog *Hannah*
+    - Hanging out with my dog Hannah
     - And specially travelling!
 
-## :zap: Tech stack:
+## :zap: Tech stack
 
-* [![My Skills](https://skillicons.dev/icons?i=mysql,selenium,java,git,docker,rest-assured)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,selenium,java,git,docker,rest-assured)](https://skillicons.dev)
