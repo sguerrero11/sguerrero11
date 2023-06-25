@@ -10,3 +10,4 @@
 - ⚡ Fun facts:
 - I love playing the guitar, travelling, hanging out with my dog (Hannah) and exercising!
 
+Tech stack:
