@@ -19,7 +19,7 @@
 
 ## ☣️ Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,maven,selenium,java,git,github,bash,jenkins,docker,androidstudio,c,css,js,html,gherkin,graphql,postman,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,maven,selenium,java,git,github,bash,jenkins,aws,docker,androidstudio,c,css,js,html,gherkin,graphql,postman,vscode,idea&perline=11)](https://skillicons.dev)
 
 
 <p align="center"> 
