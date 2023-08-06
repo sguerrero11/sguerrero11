@@ -7,7 +7,7 @@
 ## :beginner: About me
 - 🔭 I’m currently working as a QA Engineer...
 ```sh
-        🌱...and expanding my Automation expertise with the latest Selenium!
+        🌱...and expanding my Automation expertise with different frameworks!
 ```
 - 👯 Looking to collaborate on agnostic frameworks.
 - 📫 How to reach me: you can find me on QA Mercenaries!
