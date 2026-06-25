@@ -24,9 +24,9 @@
 TypeScript · JavaScript · Java · Node.js · Python · C · HTML · CSS
 
 ### Test automation (UI, API, BDD)
-[![Automation](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,selenium,gherkin,jest,junit&perline=6)](https://go-skill-icons.vercel.app)
+[![Automation](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,selenium,gherkin,jest,junit,pytest&perline=7)](https://go-skill-icons.vercel.app)
 
-Cypress · Playwright · Selenium · Gherkin · Jest · JUnit  
+Cypress · Playwright · Selenium · Gherkin · Jest · JUnit · pytest  
 *Also: TestNG · Karate · REST Assured · Behave · Cucumber*
 
 ### API, contracts & databases
@@ -54,9 +54,9 @@ Git · GitHub · GitLab · GitHub Actions · Docker · Jenkins · Netlify · AWS
 *Also: AWS Step Functions · Secrets Manager*
 
 ### IDEs & AI tooling
-[![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,cursor&perline=3)](https://go-skill-icons.vercel.app)
+[![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,cursor,pycharm,webstorm&perline=5)](https://go-skill-icons.vercel.app)
 
-VS Code · IntelliJ IDEA · Cursor
+VS Code · IntelliJ IDEA · Cursor · PyCharm · WebStorm
 
 
 <p align="center"> 
