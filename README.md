@@ -29,24 +29,17 @@
 *Also: TestNG · Karate · REST Assured · Behave · Cucumber*
 
 ### API, contracts & databases
-[![API & Data](https://skillicons.dev/icons?i=postman,graphql,postgres,mysql,mongodb,supabase&perline=6)](https://skillicons.dev)
+[![API & Data](https://go-skill-icons.vercel.app/api/icons?i=postman,graphql,postgres,mysql,mongodb,supabase,dbeaver&perline=7)](https://go-skill-icons.vercel.app)
 
-*Also: Bruno · Protobuf*
-
-### Database tools
-[![DBeaver](https://go-skill-icons.vercel.app/api/icons?i=dbeaver&perline=1)](https://go-skill-icons.vercel.app)
-
-*Also: MySQL Workbench · DB Visualizer*
+*Also: Bruno · Protobuf · MySQL Workbench · DB Visualizer*
 
 ### Mobile automation
-[![Mobile](https://skillicons.dev/icons?i=androidstudio&perline=1)](https://skillicons.dev)
-[![Xcode](https://go-skill-icons.vercel.app/api/icons?i=xcode&perline=1)](https://go-skill-icons.vercel.app)
-[![Appium](https://img.shields.io/badge/-21262d?style=flat-square&logo=appium&logoColor=EE376D&labelColor=21262d)](https://appium.io/)
-[![WebdriverIO](https://img.shields.io/badge/-21262d?style=flat-square&logo=webdriverio&logoColor=EA5906&labelColor=21262d)](https://webdriver.io/)
+[![Mobile](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,xcode&perline=2)](https://go-skill-icons.vercel.app)
+
+*Also: Appium · WebdriverIO*
 
 ### DevOps, cloud & CI
-[![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,jenkins,netlify,aws,gcp,bash,maven,gradle,spring&perline=6)](https://skillicons.dev)
-[![Cloud](https://go-skill-icons.vercel.app/api/icons?i=azuredevops,s3,lambda&perline=3)](https://go-skill-icons.vercel.app)
+[![DevOps & Cloud](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubactions,docker,jenkins,netlify,aws,gcp,bash,maven,gradle,spring,azuredevops,s3,lambda&perline=6)](https://go-skill-icons.vercel.app)
 
 *Also: AWS Step Functions · Secrets Manager*
 
