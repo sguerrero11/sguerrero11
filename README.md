@@ -10,7 +10,7 @@
         🌱...and expanding my Automation expertise with different frameworks!
 ```
 - 👯 Looking to collaborate on agnostic frameworks.
-- 📫 How to reach me: you can find me on QA Mercenaries! · [LinkedIn](https://www.linkedin.com/in/sguerrero22/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sguerrero22/) · QA Mercenaries on Slack
 - ⚡ Fun facts:
     - I love playing the guitar;
     - Exercising;
