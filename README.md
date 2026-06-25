@@ -44,5 +44,5 @@
   <br>
         Thanks for visiting my profile, see you next time!<br>
         <br>
-  <img src="https://server.jagaldol.com/profile-counter/sguerrero11/count.svg" alt="Profile visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=sguerrero11&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile visitor count" />
 </p>
