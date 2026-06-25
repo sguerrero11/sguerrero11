@@ -29,6 +29,7 @@
 [![Karate](https://img.shields.io/badge/Karate-00C853?style=flat-square)](https://karatelabs.io/)
 [![REST Assured](https://img.shields.io/badge/REST_Assured-4CAF50?style=flat-square)](https://rest-assured.io/)
 [![Behave](https://img.shields.io/badge/Behave-3776AB?style=flat-square&logo=python&logoColor=white)](https://behave.readthedocs.io/)
+[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)](https://cucumber.io/)
 
 ### API, contracts & databases
 [![API & Data](https://skillicons.dev/icons?i=postman,graphql,postgres,mysql,mongodb,supabase&perline=6)](https://skillicons.dev)
@@ -49,6 +50,8 @@
 ### DevOps, cloud & CI
 [![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,jenkins,netlify,aws,gcp,bash,maven,gradle,spring&perline=6)](https://skillicons.dev)
 [![Cloud](https://go-skill-icons.vercel.app/api/icons?i=azuredevops,s3,lambda&perline=3)](https://go-skill-icons.vercel.app)
+[![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/step-functions/)
+[![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/secrets-manager/)
 
 ### IDEs & AI tooling
 [![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,cursor&perline=3)](https://go-skill-icons.vercel.app)
