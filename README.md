@@ -10,7 +10,7 @@
         🌱...and expanding my Automation expertise with different frameworks!
 ```
 - 👯 Looking to collaborate on agnostic frameworks.
-- 📫 How to reach me: you can find me on QA Mercenaries!
+- 📫 How to reach me: you can find me on QA Mercenaries! · [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sguerrero22/)
 - ⚡ Fun facts:
     - I love playing the guitar;
     - Exercising;
@@ -20,7 +20,7 @@
 ## ☣️ Tech stack
 
 ### Languages & runtimes
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,nodejs,py,c,html,css&perline=8)](https://skillicons.dev)
 
 ### Test automation (UI, API, BDD)
 [![Automation](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,selenium,gherkin,jest,junit&perline=6)](https://go-skill-icons.vercel.app)
@@ -36,8 +36,8 @@
 ### DevOps & build
 [![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins,aws,bash,maven,gradle,spring&perline=5)](https://skillicons.dev)
 
-### IDEs
-[![IDEs](https://skillicons.dev/icons?i=vscode,idea&perline=2)](https://skillicons.dev)
+### IDEs & AI tooling
+[![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,cursor&perline=3)](https://go-skill-icons.vercel.app)
 
 
 <p align="center"> 
