@@ -44,5 +44,5 @@
   <br>
         Thanks for visiting my profile, see you next time!<br>
         <br>
-  <img src="https://profile-counter.glitch.me/sguerrero11/count.svg" />
+  <img src="https://server.jagaldol.com/profile-counter/sguerrero11/count.svg" alt="Profile visitor count" />
 </p>
