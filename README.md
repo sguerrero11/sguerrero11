@@ -19,7 +19,25 @@
 
 ## ☣️ Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,maven,selenium,java,git,github,bash,jenkins,aws,docker,androidstudio,c,css,js,html,gherkin,graphql,postman,vscode,idea&perline=11)](https://skillicons.dev)
+### Languages & runtimes
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,nodejs,html,css&perline=6)](https://skillicons.dev)
+
+### Test automation (UI, API, BDD)
+[![Automation](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,selenium,gherkin,jest,junit&perline=6)](https://go-skill-icons.vercel.app)
+
+### API & databases
+[![API & Data](https://skillicons.dev/icons?i=postman,graphql,postgres,mysql,mongodb,supabase&perline=6)](https://skillicons.dev)
+
+### Mobile automation
+[![Android](https://skillicons.dev/icons?i=androidstudio&perline=1)](https://skillicons.dev)
+[![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
+[![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)](https://webdriver.io/)
+
+### DevOps & build
+[![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins,aws,bash,maven,gradle,spring&perline=5)](https://skillicons.dev)
+
+### IDEs
+[![IDEs](https://skillicons.dev/icons?i=vscode,idea&perline=2)](https://skillicons.dev)
 
 
 <p align="center"> 
