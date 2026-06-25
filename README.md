@@ -25,33 +25,30 @@
 
 ### Test automation (UI, API, BDD)
 [![Automation](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright,selenium,gherkin,jest,junit&perline=6)](https://go-skill-icons.vercel.app)
-[![TestNG](https://img.shields.io/badge/TestNG-FF6B35?style=flat-square&logo=testing-library&logoColor=white)](https://testng.org/)
-[![Karate](https://img.shields.io/badge/Karate-00C853?style=flat-square)](https://karatelabs.io/)
-[![REST Assured](https://img.shields.io/badge/REST_Assured-4CAF50?style=flat-square)](https://rest-assured.io/)
-[![Behave](https://img.shields.io/badge/Behave-3776AB?style=flat-square&logo=python&logoColor=white)](https://behave.readthedocs.io/)
-[![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)](https://cucumber.io/)
+
+*Also: TestNG · Karate · REST Assured · Behave · Cucumber*
 
 ### API, contracts & databases
 [![API & Data](https://skillicons.dev/icons?i=postman,graphql,postgres,mysql,mongodb,supabase&perline=6)](https://skillicons.dev)
-[![Bruno](https://img.shields.io/badge/Bruno-F4A261?style=flat-square)](https://www.usebruno.com/)
-[![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white)](https://protobuf.dev/)
+
+*Also: Bruno · Protobuf*
 
 ### Database tools
 [![DBeaver](https://go-skill-icons.vercel.app/api/icons?i=dbeaver&perline=1)](https://go-skill-icons.vercel.app)
-[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/products/workbench/)
-[![DB Visualizer](https://img.shields.io/badge/DB_Visualizer-2E5C8A?style=flat-square)](https://www.dbvis.com/)
+
+*Also: MySQL Workbench · DB Visualizer*
 
 ### Mobile automation
-[![Android](https://skillicons.dev/icons?i=androidstudio&perline=1)](https://skillicons.dev)
+[![Mobile](https://skillicons.dev/icons?i=androidstudio&perline=1)](https://skillicons.dev)
 [![Xcode](https://go-skill-icons.vercel.app/api/icons?i=xcode&perline=1)](https://go-skill-icons.vercel.app)
-[![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)](https://appium.io/)
-[![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)](https://webdriver.io/)
+[![Appium](https://img.shields.io/badge/-21262d?style=flat-square&logo=appium&logoColor=EE376D&labelColor=21262d)](https://appium.io/)
+[![WebdriverIO](https://img.shields.io/badge/-21262d?style=flat-square&logo=webdriverio&logoColor=EA5906&labelColor=21262d)](https://webdriver.io/)
 
 ### DevOps, cloud & CI
 [![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,jenkins,netlify,aws,gcp,bash,maven,gradle,spring&perline=6)](https://skillicons.dev)
 [![Cloud](https://go-skill-icons.vercel.app/api/icons?i=azuredevops,s3,lambda&perline=3)](https://go-skill-icons.vercel.app)
-[![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/step-functions/)
-[![Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/secrets-manager/)
+
+*Also: AWS Step Functions · Secrets Manager*
 
 ### IDEs & AI tooling
 [![IDEs](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,cursor&perline=3)](https://go-skill-icons.vercel.app)
