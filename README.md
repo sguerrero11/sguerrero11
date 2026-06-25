@@ -10,7 +10,7 @@
         🌱...and expanding my Automation expertise with different frameworks!
 ```
 - 👯 Looking to collaborate on agnostic frameworks.
-- 📫 How to reach me: you can find me on QA Mercenaries! · [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sguerrero22/)
+- 📫 How to reach me: you can find me on QA Mercenaries! · [LinkedIn](https://www.linkedin.com/in/sguerrero22/)
 - ⚡ Fun facts:
     - I love playing the guitar;
     - Exercising;
@@ -44,5 +44,5 @@
   <br>
         Thanks for visiting my profile, see you next time!<br>
         <br>
-  <img src="https://komarev.com/ghpvc/?username=sguerrero11&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=sguerrero11&base=25000&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile visitor count" />
 </p>
